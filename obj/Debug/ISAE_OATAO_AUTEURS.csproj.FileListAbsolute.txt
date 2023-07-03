@@ -1,0 +1,8 @@
+C:\Users\Archimed\source\repos\ISAE_OATAO_AUTEURS\bin\Debug\ISAE_OATAO_AUTEURS.exe.config
+C:\Users\Archimed\source\repos\ISAE_OATAO_AUTEURS\bin\Debug\ISAE_OATAO_AUTEURS.exe
+C:\Users\Archimed\source\repos\ISAE_OATAO_AUTEURS\bin\Debug\ISAE_OATAO_AUTEURS.pdb
+C:\Users\Archimed\source\repos\ISAE_OATAO_AUTEURS\obj\Debug\ISAE_OATAO_AUTEURS.csproj.AssemblyReference.cache
+C:\Users\Archimed\source\repos\ISAE_OATAO_AUTEURS\obj\Debug\ISAE_OATAO_AUTEURS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Archimed\source\repos\ISAE_OATAO_AUTEURS\obj\Debug\ISAE_OATAO_AUTEURS.csproj.CoreCompileInputs.cache
+C:\Users\Archimed\source\repos\ISAE_OATAO_AUTEURS\obj\Debug\ISAE_OATAO_AUTEURS.exe
+C:\Users\Archimed\source\repos\ISAE_OATAO_AUTEURS\obj\Debug\ISAE_OATAO_AUTEURS.pdb
